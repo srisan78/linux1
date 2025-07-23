@@ -1,0 +1,21 @@
+File and Directory Navigation:
+pwd: Prints the current working directory.
+ls: Lists the contents of a directory.
+cd [directory]: Changes the current directory to the specified directory.
+mkdir [directory_name]: Creates a new directory.
+rmdir [directory_name]: Removes an empty directory.
+File Operations:
+touch [file_name]: Creates an empty file or updates the timestamp of an existing file.
+cp [source] [destination]: Copies files or directories.
+mv [source] [destination]: Moves or renames files or directories.
+rm [file_name]: Deletes files. Use rm -r [directory_name] to delete directories and their contents.
+cat [file_name]: Displays the content of a file.
+Permissions and Ownership:
+chmod [permissions] [file/directory]: Changes the permissions of a file or directory.
+chown [owner:group] [file/directory]: Changes the owner and group of a file or directory.
+System Information and Utilities:
+man [command]: Displays the manual page for a specified command.
+clear: Clears the terminal screen.
+echo [text]: Prints text to the terminal.
+grep [pattern] [file]: Searches for a pattern within a file.
+sudo [command]: Executes a command with superuser privileges.
